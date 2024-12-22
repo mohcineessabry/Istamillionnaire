@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Istamillionnaire/static/css/main.e6c13ad2.css",
+    "main.js": "/Istamillionnaire/static/js/main.14ce2cbc.js",
+    "static/js/488.577610a4.chunk.js": "/Istamillionnaire/static/js/488.577610a4.chunk.js",
+    "index.html": "/Istamillionnaire/index.html",
+    "main.e6c13ad2.css.map": "/Istamillionnaire/static/css/main.e6c13ad2.css.map",
+    "main.14ce2cbc.js.map": "/Istamillionnaire/static/js/main.14ce2cbc.js.map",
+    "488.577610a4.chunk.js.map": "/Istamillionnaire/static/js/488.577610a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14ce2cbc.js"
+  ]
+}
